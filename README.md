@@ -55,34 +55,38 @@ GeoCheater requires [Python 3](https://www.python.org/downloads/release/python-3
     ```sh
     python geocheater.py
     ```
-    ![alt text](https://www.linkpicture.com/q/run_script.png "Run Script")
-
+.
+.
 2. 
     ```sh
     "The Cheat will automatically sign in with the data provided in the credentials section."
     ```
     ![alt text](https://www.linkpicture.com/q/credentials.png "Credentials")
     ![alt text](https://www.linkpicture.com/q/login_3.png "Login")
-    
+.
+.
 3. 
     ```sh
     "The Cheat will search for a 'Battle Royal - (Country Battle)' game"
     ```
     ![alt text](https://www.linkpicture.com/q/battle_royal.png "Battle Royal")
-
+.
+.
 4. 
     ```sh
     "In the console the correct Country will be displayed!"
     ```
     
     ![alt text](https://www.linkpicture.com/q/country.png "Country")
-
+.
+.
 5. 
     ```sh
     "Simply select the country!"
     ```
     ![alt text](https://www.linkpicture.com/q/switzerland.png "Switzerland")
-    
+.
+.
 6. 
     ```sh
     "WIN!"
