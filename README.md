@@ -2,18 +2,12 @@
 ✅ A free tool that shows you the right country for GeoGuessr (even before you can choose the country)!✅
 
 ![alt text](https://camo.githubusercontent.com/c495117bd2e4ac72feac3c6dac62da77f566c3c8d2f4790632d5504a72314a58/68747470733a2f2f696d322e657a6769662e636f6d2f746d702f657a6769662d322d6633343238666433346666662e676966 "GeoCheater")
-.
-.
-.
-.
-.
+
+
 ## Disclaimer
 ⚠️ This should not be used in online matches. The only purpose of this repository is to show an existing flaw. ⚠️
-.
-.
-.
-.
-.
+
+
 ## Requirements
 You **CAN'T** use:
 * 🔎 Google Authentication;
@@ -22,11 +16,7 @@ You **CAN'T** use:
  
 **You need normal authentication for this to work!**
 
-.
-.
-.
-.
-.
+
 ## Installation
 GeoCheater requires [Python 3](https://www.python.org/downloads/release/python-379/).
 
@@ -52,11 +42,8 @@ GeoCheater requires [Python 3](https://www.python.org/downloads/release/python-3
     PASSWORD = 'YOURPASSWORD'
     ############## CREDENTIALS ##############
     ```
-.
-.
-.
-.
-.
+
+
 ## Run the Cheat
 
 1. ✅  Run the following command:
