@@ -20,7 +20,7 @@ You **CAN'T** use:
 ## Installation
 GeoCheater requires [Python 3](https://www.python.org/downloads/release/python-379/).
 
-1. Clone Repository:
+1. ⬇️ Clone Repository:
     ```
     git clone https://github.com/MiguelMascarenhas/GeoCheater.git
     ```
