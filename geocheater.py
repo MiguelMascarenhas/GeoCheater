@@ -1,13 +1,9 @@
 import time
+import config
 import requests
 from art import *
 from seleniumwire import webdriver 
 from geopy.geocoders import Nominatim
-
-############## CREDENTIALS ##############
-EMAIL = 'YOUR@MAIL.HERE'
-PASSWORD = 'YOURPASSWORD'
-############## CREDENTIALS ##############
 
 # Necessary to avoid weird 301 response from GeoGuessr
 options = {
@@ -23,11 +19,11 @@ def login():
     
     # Enter email
     email_xpath = '/html/body/div[1]/div/main/div/div/div/div/div/form/div/div[1]/div[2]/input'
-    driver.find_element_by_xpath(email_xpath).send_keys(EMAIL)
+    driver.find_element_by_xpath(email_xpath).send_keys(config.EMAIL)
     password_xpath = '/html/body/div[1]/div/main/div/div/div/div/div/form/div/div[2]/div[2]/input'
     
     # Enter passowrd
-    driver.find_element_by_xpath(password_xpath).send_keys(PASSWORD)
+    driver.find_element_by_xpath(password_xpath).send_keys(config.PASSWORD)
     login_button_xpath = '/html/body/div[1]/div/main/div/div/div/div/div/form/div/section/section[2]/div/div/button'
     
     # Click "Sign In" Button

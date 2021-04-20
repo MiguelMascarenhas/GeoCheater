@@ -30,14 +30,22 @@ You **CAN'T** use:
 ## Installation
 GeoCheater requires [Python 3](https://www.python.org/downloads/release/python-379/).
 
-1. Install the following dependencies:
+1. Clone Repository:
     ```
     git clone https://github.com/MiguelMascarenhas/GeoCheater.git
+    ```
+
+2. Go to project Folder:
+    ```
     cd GeoCheater
+    ```
+
+3. Install dependencies:
+    ```
     pip install -r requirements.txt
     ```
 
-2. Configure your credentials (in geocheater.py):
+4. Configure your credentials (in config.py):
     ```
     ############## CREDENTIALS ##############
     EMAIL = 'YOUR@MAIL.HERE'
@@ -55,38 +63,22 @@ GeoCheater requires [Python 3](https://www.python.org/downloads/release/python-3
     ```
     python geocheater.py
     ```
-.
-.
 2. 
     ```
     "The Cheat will automatically sign in with the data provided in the credentials section."
     ```
-    ![alt text](https://www.linkpicture.com/q/credentials.png "Credentials")
-    ![alt text](https://www.linkpicture.com/q/login_3.png "Login")
-.
-.
 3. 
     ```
     "The Cheat will search for a 'Battle Royal - (Country Battle)' game"
     ```
-    ![alt text](https://www.linkpicture.com/q/battle_royal.png "Battle Royal")
-.
-.
 4. 
     ```
     "In the console the correct Country will be displayed!"
     ```
-    
-    ![alt text](https://www.linkpicture.com/q/country.png "Country")
-.
-.
 5. 
     ```
     "Simply select the country!"
     ```
-    ![alt text](https://www.linkpicture.com/q/switzerland.png "Switzerland")
-.
-.
 6. 
     ```
     "WIN!"
