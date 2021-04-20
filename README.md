@@ -1,7 +1,7 @@
 # GeoCheater
 ✅ A free tool that shows you the right country for GeoGuessr (even before you can choose the country)!✅
 
-![alt text](https://camo.githubusercontent.com/c495117bd2e4ac72feac3c6dac62da77f566c3c8d2f4790632d5504a72314a58/68747470733a2f2f696d322e657a6769662e636f6d2f746d702f657a6769662d322d6633343238666433346666662e676966 "GeoCheater")
+![alt text](cover.gif "GeoCheater")
 
 
 ## Disclaimer
